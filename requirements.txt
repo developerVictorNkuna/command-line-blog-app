@@ -1,0 +1,5 @@
+glob2==0.7
+packaging==20.9
+packit==0.28.0
+pbr==5.5.1
+pyparsing==2.4.7
